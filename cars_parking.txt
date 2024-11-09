@@ -1,1 +1,2 @@
 1,mitsubishi,outlander,оранжевый,газовый,tiptronic,да,нет
+2,toyota,camry,белый,бензиновый,автоматическая,нет,нет,нет
